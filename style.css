@@ -1,0 +1,75 @@
+body {
+    background: #DCD6F7;
+} 
+
+nav,
+.desktop-container {
+  float: right;
+  display: block;
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+  /* gap: 40px; */
+}
+
+.logoName {
+    width: 500px;
+    height: 50px;
+    margin: 20px;
+    display: flex;
+    justify-content: flex-start;
+    font-size: 35px;
+}
+.btn-Container, 
+.profile-pic-container{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    
+}
+.title_container {
+    text-align: center;
+}
+
+.social-container{
+    display: flex;
+    justify-content: center;
+}
+.github_logo, .linked_logo {
+    padding: 5px;
+    margin: 5px;
+}
+
+
+.btn1, .btn2 {
+    border: 5px solid black;
+    background-color: black;
+    color: white;
+    cursor:default;  
+    margin: 5px;
+}
+
+
+.pSection1, .pSection2 {
+    font-size: 1.3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
